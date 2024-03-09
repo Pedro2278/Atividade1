@@ -54,9 +54,3 @@ Ordenação de três vetores, cada um contendo mil
 de números não repetidos, originados de um arquivo .txt. Os vetores a serem ordenados são: um vetor
 já ordenado, um vetor invertido e um vetor aleatório.
 
-
-Modelo de Notebook:
-Modelo do dispositivo = Notebook Samsung Style S51
-Processador = Intel(R) Core(TM) i3-8145U CPU @ 2.10GHz 2.30 GHz
-RAM instalada = 4,00 GB (utilizável: 3,89 GB)
-Tipo de sistema = Sistema operacional de 64 bits, processador baseado em x64
